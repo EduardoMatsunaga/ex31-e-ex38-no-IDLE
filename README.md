@@ -8,7 +8,7 @@ para gravação, sendo que, o arquivo deve ser atualizado a cada termo gerado. N
 primeiro termo, deve-se fazer uma verificação, caso o arquivo já exista, ele deve ser descartado e
 gravado do início novamente.
 
-ex38) Receba um numero inteiro. Calcule e mostre a série de Fibonacci até o seu N'nésimo termo.
+ex37) Receba um numero inteiro. Calcule e mostre a série de Fibonacci até o seu N'nésimo termo.
 
 4. Em complemento ao enunciado anterior, fazer uma aplicação Python, que leia o arquivo com os
 termos da série de Fibonacci e imprima na tela só os números ímpares. A aplicação deve ter um
